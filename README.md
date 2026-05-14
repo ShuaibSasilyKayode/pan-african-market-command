@@ -8,10 +8,12 @@ I am a Business Development Leader with over 8 years of experience building and 
 * **Scale:** Expert in navigating 600,000+ member communities to drive retail adoption.
 * **Integrity:** Proven methodology for verifying partner ROI and ensuring budget efficiency.
 * **Global Liaison:** Fluent in English and **Professional Mandarin Chinese**, enabling direct coordination with Global HQ.
+## 📊 Live Market Intelligence
+I maintain real-time dashboards to monitor regional liquidity shifts and partner integrity.
 
-## 📊 Live Market Monitoring
-I utilize on-chain data to maintain a real-time view of market health and liquidity shifts. 
-* **[View my Solana Pan-African Alpha Terminal on Dune Analytics](https://dune.com/remedy112/solana-pan-african-alpha-terminal)**
+* **[West Africa Web3 Liquidity & Bridge Monitor](https://dune.com/remedy112/west-africa-web3-liquidity-monitor-cross-chain-bridge-analysis)** *Focus: Cross-chain flows and regional volume analysis across West African corridors.*
+
+* **[Pan-African Solana Alpha Terminal](https://dune.com/remedy112/solana-pan-african-alpha-terminal)** *Focus: On-chain transaction tracking and wash-trade detection.*
 
 ## 📂 Strategic Areas
 * **[Partner Performance Verification](./on-chain-intelligence/):** How I protect marketing spend and verify organic volume.
