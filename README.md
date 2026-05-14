@@ -14,8 +14,8 @@ I utilize on-chain data to maintain a real-time view of market health and liquid
 * **[View my Solana Pan-African Alpha Terminal on Dune Analytics](https://dune.com/remedy112/solana-pan-african-alpha-terminal)**
 
 ## 📂 Strategic Areas
-* **[Partner Performance Verification](./on-chain-intelligence/wash-trade-detection.md):** How I protect marketing spend and verify organic volume.
-* **[Incentive Architecture](./growth-lifecycle-models/incentive-structures.md):** My frameworks for CPA, Revenue Share, and localized user retention.
+* **[Partner Performance Verification](./on-chain-intelligence/):** How I protect marketing spend and verify organic volume.
+* **[Incentive Architecture](./growth-lifecycle-models/):** My frameworks for CPA, Revenue Share, and localized user retention.
 
 ---
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/kayode-sasily-shuaib-721b90235) | Telegram: @krane231*
