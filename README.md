@@ -1,18 +1,21 @@
-# pan-african-market-command
-Strategic frameworks and market intelligence for scaling crypto ecosystems across Pan-African corridors. Focused on partner ROI, incentive architecture, and verifiable growth.
+# Pan-African Market Command
 ### Business Development & Growth Portfolio | Shuaib Sasily Kayode
 
-I am a Business Development Leader with 8+ years of experience scaling crypto products in Africa. I specialize in using market intelligence to build high-volume partnerships and sustainable user growth.
+I am a Business Development Leader with over 8 years of experience building and scaling crypto products in Africa. I specialize in high-stakes partnership management and data-driven growth strategies that bridge the gap between global exchange goals and regional market nuances.
 
-## 📈 Market Impact
-* **$10M–$30M Daily Volume:** Experience managing high-liquidity corridors.
-* **1,000,000+ Active Users:** Proven ability to scale retail and institutional adoption.
-* **Strategic Accuracy:** Using data tools to ensure every marketing dollar goes to real users, not bots.
-* **Global Bridge:** Fluent in English and **African Native Tongue & Mandarin Chinese**, enabling seamless communication between African markets and Global HQ.
+## 🚀 Professional Highlights
+* **Revenue Driven:** Managed daily transaction flows of **$10M–$30M**.
+* **Scale:** Expert in navigating 600,000+ member communities to drive retail adoption.
+* **Integrity:** Proven methodology for verifying partner ROI and ensuring budget efficiency.
+* **Global Liaison:** Fluent in English and **Professional Mandarin Chinese**, enabling direct coordination with Global HQ.
 
-## 📂 Strategic Frameworks
-* **/on-chain-intelligence**: How I verify partner performance and protect company budgets.
-* **/growth-lifecycle-models**: My blueprints for incentive programs and user retention.
+## 📊 Live Market Monitoring
+I utilize on-chain data to maintain a real-time view of market health and liquidity shifts. 
+* **[View my Solana Pan-African Alpha Terminal on Dune Analytics](https://dune.com/remedy112/solana-pan-african-alpha-terminal)**
+
+## 📂 Strategic Areas
+* **[Partner Performance Verification](./on-chain-intelligence/wash-trade-detection.md):** How I protect marketing spend and verify organic volume.
+* **[Incentive Architecture](./growth-lifecycle-models/incentive-structures.md):** My frameworks for CPA, Revenue Share, and localized user retention.
 
 ---
-[View My Live Market Monitor on Dune Analytics](https://dune.com/remedy112/solana-pan-african-alpha-terminal)
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/kayode-sasily-shuaib-721b90235) | Telegram: @krane231*
